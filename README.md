@@ -1,1 +1,1 @@
-C# 基礎
+C# Basic knowledge.
